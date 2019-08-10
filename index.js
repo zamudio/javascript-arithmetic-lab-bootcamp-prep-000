@@ -32,5 +32,11 @@ function dec(n) {
 
 // parsing numbers
 function makeInt(n) {
-  
+  var n = parseInt(n)
+  return n
+}
+
+function preserveDecimal(n) {
+  var n = parseFloat(n)
+  return n
 }
