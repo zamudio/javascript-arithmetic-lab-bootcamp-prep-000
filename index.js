@@ -31,3 +31,6 @@ function dec(n) {
 }
 
 // parsing numbers
+function makeInt(n) {
+  
+}
