@@ -4,17 +4,17 @@ function add(a, b) {
   return add
 }
 
-function subtract() {
+function subtract(a, b) {
   var subtract = (a - b)
   return subtract
 }
 
-function multiply() {
+function multiply(a, b) {
   var multiply = (a * b)
   return multiply
 }
 
-function divide() {
+function divide(a, b) {
   var divide = (a / b)
   return divide
 }
