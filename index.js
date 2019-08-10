@@ -19,4 +19,4 @@ function divide(a, b) {
   return divide
 }
 
-//
+// math + assignment
