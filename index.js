@@ -29,3 +29,5 @@ function dec(n) {
   var n = (n -= 1)
   return n
 }
+
+// parsing numbers
