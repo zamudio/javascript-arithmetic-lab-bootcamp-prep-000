@@ -20,3 +20,12 @@ function divide(a, b) {
 }
 
 // math + assignment
+function inc(n) {
+  var n = (n += 1)
+  return n
+}
+
+function dec(n) {
+  var n = (n -= 1)
+  return n
+}
